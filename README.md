@@ -9,11 +9,9 @@
 
 [<img align="left" alt="Boring_Sundays | Twitter" width="25px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="Sandesh Rao | LinkedIn" width="25px" src="https://img.icons8.com/color/50/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="sandesh_r.u | Instagram" width="25px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 
 <br><br>
 
-[instagram]: https://instagram.com/sandesh_r.u
 [twitter]: https://twitter.com/Boring_Sundays
 [linkedin]: https://www.linkedin.com/in/sandesh-rao-0b9714208/
 

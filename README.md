@@ -2,7 +2,7 @@
 - ⚙ I'm a Mechanical Engineering Graduate
 - 🌱 I’m currently learning Angular
 - 👀 Interested in AI/ML
-- 💻
+- 💻 Front-end development aspirant
 
 <br><br>
 

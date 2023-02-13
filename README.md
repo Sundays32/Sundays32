@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Sandesh
-- ⚙ I'm a Mechanical Engineering student
-- 🌱 I’m currently learning Python
+- ⚙ I'm a Mechanical Engineering Graduate
+- 🌱 I’m currently learning Angular
 - 👀 Interested in AI/ML
+- 💻
 
 <br><br>
 
